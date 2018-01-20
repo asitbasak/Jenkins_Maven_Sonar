@@ -7,8 +7,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
           <version>0.0.1-SNAPSHOT</version>
           <packaging>pom</packaging>
 
-<modules>
-        <module>Selenium_Cucumber_2nd_Project</module>
-</modules>
+
 
 </project>
